@@ -1,4 +1,4 @@
-## WHY ARE YOU LOOKING AT ME
+## うっふーん 私のリポジトリ みてぇーん
 
 <!--
 **miyatarutyyy/miyatarutyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
