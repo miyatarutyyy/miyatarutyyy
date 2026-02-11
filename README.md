@@ -1,7 +1,5 @@
 ## Hello There
 
-My site: https://miyatarutyyy.github.io/Archivyyy
-
 ### Using / Learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=emacs,arch,linux,astro,git,github,html,css,tailwind,js,ts,react,nextjs,threejs" />
