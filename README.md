@@ -2,5 +2,5 @@
 
 ### Using / Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=emacs,arch,linux,astro,git,github,html,css,tailwind,js,ts,react,nextjs,threejs" />
+  <img src="https://skillicons.dev/icons?i=emacs,arch,linux,js,ts,react" />
 </div>
